@@ -1,5 +1,5 @@
 # AI Expert Lecture Files
-AI programming lecture for public (6/3 - 6/7, Korean).
+AI programming lecture for public (3 - 7 Jun 2024, Korean).
 * Dong-Sig Han
 * Woo Suk Choi
 
